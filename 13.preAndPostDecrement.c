@@ -1,4 +1,4 @@
-/* To illustrate the use of increment operator (postfix & 
+/* To illustrate the use of decrement operator (postfix & 
 prefix).*/
 #include<stdio.h>
 void main(){

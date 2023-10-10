@@ -1,6 +1,5 @@
 /* Using „&‟ operator, check whether a given number is 
 Odd or Even.*/
-
 #include<stdio.h>
 void main(){
     int number;

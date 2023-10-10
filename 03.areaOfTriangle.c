@@ -2,6 +2,7 @@
 formula, Area = √(s(s-a) (s-b) (s-c)) 
 where a, b and c are lengths of sides of Triangle, and
 s = (a+b+c) / 2*/
+
 #include<stdio.h>
 #include<math.h>
 
